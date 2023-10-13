@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853000857413",
+    "project_id": "bakchodi-bc",
+    "storage_bucket": "bakchodi-bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853000857413:android:9f774c753275d38281802c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBadT77c3sxhQ6PAE954nk3M5bn7tvsYxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
